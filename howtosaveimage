@@ -1,0 +1,25 @@
+1. Create a GitHub Account
+           Visit GitHub: Go to GitHub.com.
+            Sign Up:
+            Click on the "Sign up" button.
+            Fill in your details (username, email, and password).
+             Verify your email and complete the setup process.
+2. Create a Repository
+             Log in to GitHub: Use your newly created account credentials.
+             Go to the "Repositories" tab: Click on your profile picture (top-right corner) and select "Your repositories."
+Click "New":
+Add a repository name (e.g., MyFirstRepo).
+           Optionally, add a description.
+           Choose whether the repository will be public or private.
+             Check the box "Add a README file" (recommended).
+           Click "Create repository."
+3. Save a File to the Repository
+          Option 1: Upload via GitHub Website
+          Open the repository: Go to your newly created repository.
+            Upload a file:
+           Click the "Add file" button, then choose "Upload files."
+        Drag and drop files or click to select files from your computer.
+        Add a commit message (e.g., "Added initial file").
+        Click "Commit changes" to save.
+
+  
